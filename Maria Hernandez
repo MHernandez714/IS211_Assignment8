@@ -1,7 +1,7 @@
-python pig_game.py --player1 human --player2 ccomputer
+python pig_game.py --player1 human --player2 computer
 
 
-python pig_game.py --player1 ccomputer --player2 computer
+python pig_game.py --player1 computer --player2 computer
 
 
 python pig_game.py --player1 computer --player2 computer --timed
